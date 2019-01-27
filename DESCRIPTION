@@ -1,0 +1,13 @@
+Package: addm
+Title: Data from the CDC ADDM National Surveys
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Alison",
+           family = "Hill",
+           role = c("aut", "cre"),
+           email = "apresstats@gmail.com",
+           comment = c(ORCID = "https://orcid.org/0000-0002-8082-1890"))
+Description: Data from the Centers for Disease Control & Prevention Autism & Developmental Disabilities Monitoring Network (CDC ADDM)
+License: CC0
+Encoding: UTF-8
+LazyData: true
